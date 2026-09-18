@@ -1,0 +1,10 @@
+id,titulo,lista,responsavel,pontos,criterio_principal
+US01,Pesquisar e descrever o caso Apple Card,Em Andamento,Lara,5,Distinguir alegacoes do resultado oficial
+US02,Identificar falhas nos dados e no modelo,A Fazer,Lara,3,Explicar pelo menos cinco fontes de risco
+US03,Analisar riscos de exclusao digital,A Fazer,Kilmes,3,Incluir barreiras e medidas de inclusao
+US04,Propor regras de governanca,A Fazer,Kilmes,5,Relacionar auditoria transparencia recurso e LGPD
+US05,Criar base CSV simulada,Em Andamento,Antonio,3,Ter pelo menos 40 linhas sem dados reais
+US06,Criar notebook comentado no Colab,A Fazer,Antonio,5,Executar leitura analise grafico e conclusao
+US07,Montar quadro e limites de WIP,A Fazer,Kilmes,3,Aplicar WIP 2 em andamento e 2 em revisao
+US08,Organizar branches commits e evidencias,Backlog,[4o INTEGRANTE],3,Registrar pelo menos dois commits reais por pessoa
+US09,Executar revisao final,Backlog,Equipe,2,Testar links arquivos e notebook
